@@ -1,0 +1,28 @@
+{
+    "source": {
+        "type": "abc",
+        "file_path": "jdbc:postgresql://localhost:5432/my_first",
+        "db_name": "my_first",
+        "table_name": "supriya",
+        "account_name": "",
+        "account_key": "",
+        "delimeter": "",
+        "extension": "",
+        "header": true,
+        "username": "postgres",
+        "password": "Password123"
+    },
+    "target": {
+        "type": "csv",
+        "file_path": "C:\\Users\\supriya_mangnale\\Desktop\\DataIngestion\\CSVFo1",
+        "db_name": "",
+        "account_name": "",
+        "account_key": "",
+        "delimeter": "",
+        "extension": "",
+        "header": true,
+        "table_name": "",
+        "username": "",
+        "password": ""
+    }
+}
